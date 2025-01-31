@@ -1,5 +1,4 @@
-<h1> Juego Advina el número <h1/>
+<h1> JUEGO - ADIVINA EL NÚMERO <h1/>
+  
+![2598890](https://github.com/user-attachments/assets/15976884-a6c3-4d6e-8301-f2d45f5fef71)
 
-- Versión final.
-
-¨¨Ejectur código¨¨¨
